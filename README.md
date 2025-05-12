@@ -1,3 +1,7 @@
+Developed by:Dhanashree A
+
+Register by:212224040065
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
